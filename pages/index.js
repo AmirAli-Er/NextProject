@@ -11,13 +11,14 @@ function HomePage(){
             <br></br>
             <h2 className='italic'>Next features</h2>
             <div className='grid'>
-                <Card variant="outlined" className='costum-card'>
-                    <ElectricBoltOutlinedIcon   sx={{ fontSize: 60 }}className='icon' />
-                    <h1>Fast</h1>
-                </Card>
+                
                 <Card variant="outlined" className='costum-card'>
                     <GppGoodIcon  sx={{ fontSize: 60 }}className='icon'  />
                     <h1>high security</h1>
+                </Card>
+                <Card variant="outlined" className='costum-card'>
+                    <ElectricBoltOutlinedIcon   sx={{ fontSize: 60 }}className='icon' />
+                    <h1>Fast</h1>
                 </Card>
                 <Card variant="outlined" className='costum-card'>
                     <LocalFireDepartmentIcon  sx={{ fontSize: 60 }}className='icon'  />
