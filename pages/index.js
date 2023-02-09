@@ -25,13 +25,13 @@ function HomePage(){
                 </Card>
             </div>
             <br/>
-            <Button href="#" variant='outlined' startIcon={<GitHubIcon></GitHubIcon>} className='btn'>My Github</Button>
+            <Button href="https://github.com/AmirAli-Er/NextProject" variant='outlined' startIcon={<GitHubIcon></GitHubIcon>} className='btn'>My Github</Button>
             <br></br>
             <br></br>
             <br></br>
             <br></br>
             
-            <p>developing with amirali erfani</p>
+            <p>developed with amirali erfani</p>
         </div>
     )
 }
